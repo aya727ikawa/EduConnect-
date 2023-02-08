@@ -1,4 +1,4 @@
-# EduConnect-
+# EduConnect
 ITEC 6301 Design Using Technology 
 
 Assignment Description: 
