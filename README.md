@@ -15,7 +15,7 @@ To allow students to communicate and collaborate in groups and teachers to track
 To enhance the frequency of interaction between teacher and student 
 
 
-**Objectives (1-2 actionable and measurable objectives) **
+**Objectives (1-2 actionable and measurable objectives)**
 
 To research and find ways teachers can use the social app to interact and communicate with their students 
 To demonstrate how teachers can view their student group interactions on the social app
