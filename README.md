@@ -10,7 +10,7 @@ Develop a prototype for learning to some degree
 To see the prototype, please refer to the following links: 
 https://www.figma.com/file/yhjB5X4hfHXzalNiVA3UQI/Teacher-%26-Student-Communication-App
 
-Sign in 
+Sign in <br>
 <img width="236" alt="Screenshot 2023-02-09 at 1 12 30 PM" src="https://user-images.githubusercontent.com/124226363/217914186-ced6908f-02f1-48ba-ad12-5896bff0ac97.png">
 
 <img width="236" alt="Screenshot 2023-02-09 at 1 12 49 PM" src="https://user-images.githubusercontent.com/124226363/217914268-a47ef7ec-a655-4af8-8fea-4ed160883649.png">
@@ -19,29 +19,29 @@ Sign in
 
 <img width="236" alt="Screenshot 2023-02-09 at 1 13 23 PM" src="https://user-images.githubusercontent.com/124226363/217914390-2bd79534-b3b0-4b1e-946a-3cad1d061475.png">
 
-Homepage 
-<img width="235" alt="Screenshot 2023-02-09 at 1 13 47 PM" src="https://user-images.githubusercontent.com/124226363/217914487-f51961c1-de57-4227-8b98-4fe632019086.png">
+Homepage <br>
+<img width="235" alt="Screenshot 2023-02-09 at 1 13 47 PM" src="https://user-images.githubusercontent.com/124226363/217914487-f51961c1-de57-4227-8b98-4fe632019086.png"> <br>
 
-Students page
-<img width="236" alt="Screenshot 2023-02-09 at 1 14 19 PM" src="https://user-images.githubusercontent.com/124226363/217914596-038946fa-3527-4b47-b580-377d7ec3173e.png">
+Students page <br>
+<img width="236" alt="Screenshot 2023-02-09 at 1 14 19 PM" src="https://user-images.githubusercontent.com/124226363/217914596-038946fa-3527-4b47-b580-377d7ec3173e.png"> <br>
 
-Office hour appointments 
-<img width="237" alt="Screenshot 2023-02-09 at 1 16 09 PM" src="https://user-images.githubusercontent.com/124226363/217914985-e86fef6f-69fa-4524-bc78-69002c548d33.png">
+Office hour appointments <br>
+<img width="237" alt="Screenshot 2023-02-09 at 1 16 09 PM" src="https://user-images.githubusercontent.com/124226363/217914985-e86fef6f-69fa-4524-bc78-69002c548d33.png"> <br>
 
-Chats
-<img width="238" alt="Screenshot 2023-02-09 at 1 16 32 PM" src="https://user-images.githubusercontent.com/124226363/217915059-a138147d-6a24-4270-b89b-5dcb6a66661e.png">
+Chats <br>
+<img width="238" alt="Screenshot 2023-02-09 at 1 16 32 PM" src="https://user-images.githubusercontent.com/124226363/217915059-a138147d-6a24-4270-b89b-5dcb6a66661e.png"> 
 
 
 <img width="234" alt="Screenshot 2023-02-09 at 1 16 52 PM" src="https://user-images.githubusercontent.com/124226363/217915130-3f5ef961-63de-4cb7-adc1-49f1e41a8100.png">
 
-<img width="234" alt="Screenshot 2023-02-09 at 1 17 42 PM" src="https://user-images.githubusercontent.com/124226363/217915301-04663315-d640-4ad8-b81f-8959197cca2f.png">
+<img width="234" alt="Screenshot 2023-02-09 at 1 17 42 PM" src="https://user-images.githubusercontent.com/124226363/217915301-04663315-d640-4ad8-b81f-8959197cca2f.png"> <br>
 
 
-Student details 
-<img width="237" alt="Screenshot 2023-02-09 at 1 17 20 PM" src="https://user-images.githubusercontent.com/124226363/217915226-358ef09f-e7f8-4a64-974f-116fa7b6d9eb.png">
+Student details <br>
+<img width="237" alt="Screenshot 2023-02-09 at 1 17 20 PM" src="https://user-images.githubusercontent.com/124226363/217915226-358ef09f-e7f8-4a64-974f-116fa7b6d9eb.png"> <br>
 
-Schedule appointment 
-<img width="235" alt="Screenshot 2023-02-09 at 1 18 02 PM" src="https://user-images.githubusercontent.com/124226363/217915367-170ef4d2-7a21-42b9-a239-1ff02e089cec.png">
+Schedule appointment <br>
+<img width="235" alt="Screenshot 2023-02-09 at 1 18 02 PM" src="https://user-images.githubusercontent.com/124226363/217915367-170ef4d2-7a21-42b9-a239-1ff02e089cec.png"> <br>
 
 **Statement of empathy. Who will this prototype benefit from? What problem are you solving?**
 
